@@ -46,7 +46,7 @@ body
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   border-right: 1px solid black;
-  line-height: 2.0
+  line-height: 2.0;
   width: 100%;
 }
 
@@ -81,7 +81,7 @@ h2
 {
 	background: #17a2b8;
 	border: 1px solid black;
-	margin-left: 25px auto;
+	margin-left: auto;
 	width: 90%;
 }
 
